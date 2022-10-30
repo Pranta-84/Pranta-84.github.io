@@ -1,2 +1,8 @@
 # Pranta-84.github.io
-Hosting my presentations
+My presentations
+
+[Presentation 1](Slide.pdf)
+
+[Presentation 2](HTMAL_slides.pdf)
+
+[CV](cv.pdf)
