@@ -3,6 +3,6 @@ My presentations
 
 [Presentation 1](Slide.pdf)
 
-[Presentation 2](HTMAL_slides.pdf)
+[Presentation 2](HTML_slides.pdf)
 
 [CV](cv.pdf)
