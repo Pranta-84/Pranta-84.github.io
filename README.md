@@ -1,5 +1,4 @@
-# Pranta-84.github.io
-My presentations
+My presentations-
 
 [Presentation 1](Slide.pdf)
 
