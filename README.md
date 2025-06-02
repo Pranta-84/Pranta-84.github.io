@@ -12,3 +12,7 @@ I am a [PhD student](https://statistics.unl.edu/person/pranta-das/) in Statistic
  - MS in Statistics (2022 - 2024), University of Nebraska-Lincoln, USA
  - BS in Statistics (2016 - 2021), University of Dhaka, Bangladesh 
 
+## Awards
+
+- Othmer Fellowship (Aug 2022 - May 2025), University of Nebraska-Lincoln, USA
+- Sarothi Scholarship (July 2017), University of Dhaka, Bangladesh
