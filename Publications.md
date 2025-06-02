@@ -1,9 +1,9 @@
-
-# Statistics Research
+# Publications
+## Statistics Research
 
 -   **Das, P.**, Afroz, F., Rahman, M. H., and Shabuz, Z. R. (2025). Comparison of two measures of relative importance of predictors in logistic regression. *Discover Applied Sciences*, 7(4), 352. [Link](https://doi.org/10.1007/s42452-025-06818-4)
 
-# Consulting work
+## Consulting work
 
 -   Hasan, M., Hossain, M. A., Chowdhury, S., **Das, P.**, Jahan, I., Rahman, M. F., Haque, M.M.A., Rashid, M.U., Khan, M.A.S., Hossian, M. and Hawlader, M. D. H. (2023). Human monkeypox and preparedness of Bangladesh: A knowledge and attitude assessment study among medical doctors. *Journal of Infection and Public Health*, 16(1), 90-95. [Link](https://doi.org/10.1016/j.jiph.2022.11.032)
 -   Samad, N., **Das, P.**, Dilshad, S., Al Banna, H., Rabbani, G., Sodunke, T. E., Hardcastle, T.C., Haq, A., Afroz, K.A., Ahmad, R. and Haque, M. (2022). Women's empowerment and fertility preferences of married women: analysis of demographic and health survey’2016 in Timor-Leste. *AIMS Public Health*, 9(2), 237. [Link](https://doi.org/10.3934/publichealth.2022017)
