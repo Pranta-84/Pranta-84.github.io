@@ -1,5 +1,7 @@
 ---
 title: "Talks"
+permalink: "/Talks/"
+layout: page
 ---
 # Conference
 
