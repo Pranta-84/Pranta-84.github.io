@@ -8,3 +8,6 @@ During my travel to Bangladesh from the US, I had 8 hours layover in Seattle, Wa
 ![Me at the Lake Washington](https://pranta-84.github.io/_posts/images/LW.JPEG)
 
 ![Me at the Alki beach park](https://pranta-84.github.io/_posts/images/ABP.JPEG)
+![Me at the Lake Washington](https://github.com/Pranta-84/Pranta-84.github.io/blob/master/_posts/images/LW.JPEG)
+
+
