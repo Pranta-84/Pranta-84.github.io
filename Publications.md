@@ -1,7 +1,6 @@
 ---
 title: "Publications"
 ---
-
 # Statistics Research
 
 -   **Das, P.**, Afroz, F., Rahman, M. H., and Shabuz, Z. R. (2025). Comparison of two measures of relative importance of predictors in logistic regression. *Discover Applied Sciences*, 7(4), 352. [Link](https://doi.org/10.1007/s42452-025-06818-4)
