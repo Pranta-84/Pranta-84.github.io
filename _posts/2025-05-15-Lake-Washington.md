@@ -5,7 +5,7 @@ layout: post
 
 During my travel to Bangladesh from the US I had 8 hours layover in Seattle, Washington. During this short time, I have visited the Lake Washington and Alki beach park. Between these two places I liked Lake Washington most however Alki beach park has some nice scenic view.
 
-![Me at the Lake Washington](https://pranta-84.github.io/_pots/images/LW.JPEG)
+![Me at the Lake Washington](https://github.com/Pranta-84/Pranta-84.github.io/blob/master/_posts/images/LW.JPEG)
 
-![Me at the Alki beach park](https://pranta-84.github.io/_posts/images/ABP.JPEG)
+![Me at the Alki beach park](https://github.com/Pranta-84/Pranta-84.github.io/blob/master/_posts/images/ABP.JPEG)
 
