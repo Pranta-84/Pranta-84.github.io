@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 permalink: "/about/"
-layout: default
+layout: page
 ---
 
 ![Me in Colorado](./MyPicture.png)
