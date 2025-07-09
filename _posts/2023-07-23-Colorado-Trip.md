@@ -4,7 +4,7 @@ layout: post
 mathjax: true
 editor_options: 
   markdown: 
-    wrap: 13
+    wrap: 5
 ---
 
 At the end of July 2023, I went on a three-day trip to Colorado, USA.
