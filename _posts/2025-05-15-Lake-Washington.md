@@ -18,3 +18,12 @@ While driving, I had to pass through downtown Seattle, so technically, I did vis
 
 ![Me at the Alki beach park](/assets/ABP.JPEG) Me at the Alki beach park
 
+![Colorado](/assets/Colorado1.jpg)
+At the Rocky
+Mountain
+National Park
+
+![Colorado](/assets/Colorado2.jpg)
+Views of the
+road from our
+car
