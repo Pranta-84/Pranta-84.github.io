@@ -4,7 +4,7 @@ layout: post
 mathjax: true
 editor_options: 
   markdown: 
-    wrap: 14
+    wrap: 2
 ---
 
 At the end of
