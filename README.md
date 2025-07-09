@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 permalink: "/about/"
-layout: page
+layout: default
 ---
 
 ![Me in Colorado](./MyPicture.png)
@@ -10,7 +10,7 @@ Hi, this is Pranta. I am a [PhD student](https://statistics.unl.edu/person/prant
 
 ## Education
 
--   PhD in Statistics (2024 - ), Unversity of Nebraska-Lincoln, USA
+-   PhD in Statistics (2024 - Present), Unversity of Nebraska-Lincoln, USA
 -   MS in Statistics (2022 - 2024), University of Nebraska-Lincoln, USA
 -   BS in Statistics (2016 - 2021), University of Dhaka, Bangladesh
 

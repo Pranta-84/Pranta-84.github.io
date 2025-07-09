@@ -7,7 +7,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit.
 
-
 ## Heading Two (h2)
 
 ### Heading Three (h3)
@@ -17,7 +16,6 @@ Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, tur
 ##### Heading Five (h5)
 
 ###### Heading Six (h6)
-
 
 ## Blockquotes
 
@@ -31,11 +29,11 @@ Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, tur
 >
 > You get someone who stays up all night torturing himself mentally over the question of whether or not there's a dog.
 >
-> – _Hal Incandenza_
+> – *Hal Incandenza*
 
 ## Horizontal Rule
 
----
+------------------------------------------------------------------------
 
 ## Table
 
@@ -50,7 +48,7 @@ Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, tur
 
 Source code can be included by fencing the code with three backticks. Syntax highlighting works automatically when specifying the language after the backticks.
 
-````
+````         
 ```javascript
 function foo () {
     return "bar";
@@ -60,7 +58,7 @@ function foo () {
 
 This would be rendered as:
 
-```javascript
+``` javascript
 function foo () {
     return "bar";
 }
@@ -70,22 +68,22 @@ function foo () {
 
 ### Unordered
 
-* First item
-* Second item
-* Third item
-    * First nested item
-    * Second nested item
+-   First item
+-   Second item
+-   Third item
+    -   First nested item
+    -   Second nested item
 
 ### Ordered
 
-1. First item
-2. Second item
-3. Third item
-    1. First nested item
-    2. Second nested item
-    
-You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.
+1.  First item
+2.  Second item
+3.  Third item
+    1.  First nested item
+    2.  Second nested item
 
-To add new posts, simply add a file in the _posts directory that follows the convention YYYY-MM-DD-name-of-post.ext and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+You’ll find this post in your \_posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.
+
+To add new posts, simply add a file in the \_posts directory that follows the convention YYYY-MM-DD-name-of-post.ext and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
 Jekyll also offers powerful support for code snippets:
