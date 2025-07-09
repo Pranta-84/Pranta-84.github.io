@@ -10,10 +10,9 @@ I drove most of the time during this brief visit—lol—so it was a nice experi
 While driving, I had to pass through downtown Seattle, so technically, I did visit it—though not in the most ideal way. Seattle is the first major city I’ve visited in the US, and I hope I get more opportunities to visit others in the future.
 
 <details>
-  <summary>See more</summary>
 
-  ![Me at the Lake Washington](/assets/LW.JPEG) Me at the Lake Washington
+![Me at the Lake Washington](/assets/LW.JPEG) Me at the Lake Washington
 
-  ![Me at the Alki beach park](/assets/ABP.JPEG) Me at the Alki beach park
+![Me at the Alki beach park](/assets/ABP.JPEG) Me at the Alki beach park
 
 </details>
