@@ -52,6 +52,6 @@ beautiful
 roads in
 Colorado.
 
-![Colorado](/assets/Colorado1.jpg) At the Rocky Mountain National Park
+![Rocky Mountain](/assets/Colorado1.jpg) At the Rocky Mountain National Park
 
-![Colorado](/assets/Colorado2.jpg) Views of the road from our car
+![From car](/assets/Colorado2.jpg) Views of the road from our car
