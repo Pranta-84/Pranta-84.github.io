@@ -4,7 +4,7 @@ layout: post
 mathjax: true
 editor_options: 
   markdown: 
-    wrap: 2
+    wrap: 14
 ---
 
 At the end of
@@ -52,12 +52,6 @@ beautiful
 roads in
 Colorado.
 
-![Colorado](/assets/Colorado1.jpg)
-At the Rocky
-Mountain
-National Park
+![Colorado](/assets/Colorado1.jpg) At the Rocky Mountain National Park
 
-![Colorado](/assets/Colorado2.jpg)
-Views of the
-road from our
-car
+![Colorado](/assets/Colorado2.jpg) Views of the road from our car
