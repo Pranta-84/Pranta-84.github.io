@@ -2,9 +2,7 @@
 title: "Colorado trip"
 layout: post
 mathjax: true
-editor_options: 
-  markdown: 
-    wrap: 10
+categories: media
 ---
 At the end of
 July 2023, I
