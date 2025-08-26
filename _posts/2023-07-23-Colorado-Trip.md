@@ -50,6 +50,7 @@ drive on those
 beautiful
 roads in
 Colorado.
+While driving, I had to pass through downtown Seattle, so technically, I did visit it—though not in the most ideal way. Seattle is the first major city I’ve visited in the US, and I hope I get more opportunities to visit others in the future.
 
 ![Rocky Mountain](/assets/Colorado1.jpg) At the Rocky Mountain National Park
 
