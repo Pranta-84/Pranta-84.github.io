@@ -53,6 +53,6 @@ Colorado.
 
 While driving, I had to pass through downtown Seattle, so technically, I did visit it—though not in the most ideal way. Seattle is the first major city I’ve visited in the US, and I hope I get more opportunities to visit others in the future.
 
-![Rocky Mountain](/assets/Colorado1.JPEG) At the Rocky Mountain National Park
+![Rocky Mountain](/assets/Colorado1.jpeg) At the Rocky Mountain National Park
 
-![From car](/assets/Colorado2.JPEG) Views of the road from our car
+![From car](/assets/Colorado2.jpeg) Views of the road from our car
