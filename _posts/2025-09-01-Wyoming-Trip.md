@@ -14,6 +14,8 @@ We made some great memories—canoeing at Jenny Lake, watching Old Faithful erup
 Wyoming is about a 13-hour drive from Lincoln. Crazy, right? But since almost all of us took turns driving, it didn’t feel overwhelming. I’m looking forward to making more trips like this during my PhD journey.
 
 
+![Jenny Lake](/assets/JennyLake.jpg) At Jenny lake
+
 ![Yellowstone Lake](/assets/AtYellowstoneLake.jpeg) Group at the Yellowstone lake
 
 ![Grand Teton](/assets/AtGrandTeton.jpeg) At Grand Teton
