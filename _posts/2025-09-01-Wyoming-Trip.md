@@ -84,6 +84,7 @@ trips like
 this during my
 PhD journey.
 
+
 ![Jenny
 Lake](/assets/JennyLake.jpg)
 At Jenny lake
