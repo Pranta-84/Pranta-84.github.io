@@ -17,4 +17,3 @@ Hi, this is Pranta. I am a [PhD student](https://statistics.unl.edu/person/prant
 ## Awards
 
 -   Othmer Fellowship (Aug 2022 - May 2025), University of Nebraska-Lincoln, USA
--   Sarothi Scholarship (July 2017), University of Dhaka, Bangladesh
