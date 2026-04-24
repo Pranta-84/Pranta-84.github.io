@@ -10,10 +10,12 @@ Hi, this is Pranta. I am a [PhD candidate](https://statistics.unl.edu/person/pra
 
 ## Education
 
--   PhD in Statistics (2024 - Present), Unversity of Nebraska-Lincoln, USA
--   MS in Statistics (2022 - 2024), University of Nebraska-Lincoln, USA
+-   PhD in Statistics (2024 - Present), Unversity of Nebraska-Lincoln, US
+-   MS in Statistics (2022 - 2024), University of Nebraska-Lincoln, US
 -   BS in Statistics (2016 - 2021), University of Dhaka, Bangladesh
 
 ## Awards
 
--   Othmer Fellowship (Aug 2022 - May 2025), University of Nebraska-Lincoln, USA
+- Statistics Department Travel Award (Apr 2026), University of Nebraska-Lincoln, US
+- Othmer Fellowship (Aug 2022 - May 2025), University of Nebraska-Lincoln, US
+- National Science and Technology Fellowship (Jan 2021), Ministry of Science and Technology, Bangladesh
