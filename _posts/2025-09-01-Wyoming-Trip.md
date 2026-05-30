@@ -89,6 +89,7 @@ PhD journey.
   <p style="text-align: center; margin: 0px auto; padding: 8px 6px; background-color: #f0f0f0; color: #333333; font-style: italic; font-weight: bold;">At Jenny lake</p>
 </div>
 
+
 <div style="display: inline-block; max-width: 100%;">
   <img src="/assets/AtYellowstoneLake.jpeg" alt="Yellowstone
 Lake" style="display: block; margin-bottom: 0px;">
@@ -96,6 +97,7 @@ Lake" style="display: block; margin-bottom: 0px;">
 Yellowstone
 lake</p>
 </div>
+
 
 <div style="display: inline-block; max-width: 100%;">
   <img src="/assets/AtGrandTeton.jpeg" alt="Grand
