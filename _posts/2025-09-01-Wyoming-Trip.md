@@ -87,7 +87,7 @@ PhD journey.
 
 ![Jenny
 Lake](/assets/JennyLake.jpg)
-<p align="center"><em>At Jenny lake</em></p>
+<p style="text-align: center;"><em>At Jenny lake</em></p>
 
 ![Yellowstone
 Lake](/assets/AtYellowstoneLake.jpeg)
