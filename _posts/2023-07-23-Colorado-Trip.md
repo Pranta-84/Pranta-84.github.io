@@ -52,6 +52,13 @@ roads in
 Colorado.
 
 
-![Rocky Mountain](/assets/Colorado1.jpeg) At the Rocky Mountain National Park
 
-![From car](/assets/Colorado2.jpeg) Views of the road from our car
+<div style="display: inline-block; max-width: 100%;">
+  <img src="/assets/Colorado1.jpg" alt="Rocky Mountain" style="display: block; margin-bottom: 0px;">
+  <p style="text-align: center; margin: 0px auto; padding: 8px 6px; background-color: #f0f0f0; color: #333333; font-style: italic; font-weight: bold;">At the Rocky Mountain National Park</p>
+</div>
+
+<div style="display: inline-block; max-width: 100%;">
+  <img src="/assets/Colorado2.jpeg" alt="From car" style="display: block; margin-bottom: 0px;">
+  <p style="text-align: center; margin: 0px auto; padding: 8px 6px; background-color: #f0f0f0; color: #333333; font-style: italic; font-weight: bold;">Views of the road</p>
+</div>
