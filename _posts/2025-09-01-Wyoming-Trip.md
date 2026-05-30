@@ -87,7 +87,7 @@ PhD journey.
 
 ![Jenny
 Lake](/assets/JennyLake.jpg)
-<p style="text-align: center;"><em>At Jenny lake</em></p>
+<p style="text-align: center; margin-top: 0px; padding: 6px; background-color: #f0f0f0; color: #555555; font-style: italic;">At Jenny lake</p>
 
 ![Yellowstone
 Lake](/assets/AtYellowstoneLake.jpeg)
