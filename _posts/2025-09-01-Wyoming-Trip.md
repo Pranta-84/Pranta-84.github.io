@@ -91,15 +91,12 @@ PhD journey.
 
 <div style="display: inline-block; max-width: 100%;">
   <img src="/assets/AtYellowstoneLake.jpeg" alt="Yellowstone
-Lake" style="display: block; margin-bottom: 0px;">
+Lake" style="display: block; margin-top: 0px;">
   <p style="text-align: center; margin: 0px auto; padding: 8px 6px; background-color: #f0f0f0; color: #333333; font-style: italic; font-weight: bold;">We at the
 Yellowstone
 lake</p>
 </div>
 
-![Grand
-Teton](/assets/AtGrandTeton.jpeg)
-At Grand Teton
 <div style="display: inline-block; max-width: 100%;">
   <img src="/assets/AtGrandTeton.jpeg" alt="Grand
 Teton" style="display: block; margin-bottom: 0px;">
