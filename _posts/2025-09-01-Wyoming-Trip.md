@@ -39,6 +39,7 @@ improvised and
 added it to
 the itinerary.
 
+
 We made some
 great
 memories—canoeing
