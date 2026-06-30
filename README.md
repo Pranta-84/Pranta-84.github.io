@@ -16,6 +16,7 @@ Hi, this is Pranta. I am a Statistics [PhD candidate](https://statistics.unl.edu
 
 ## Awards
 
+- Chancellor's Graduate Travel Grant (Spring 2026), University of Nebraska-Lincoln, US
 - Statistics Department Travel Award (Apr 2026), University of Nebraska-Lincoln, US
 - Othmer Fellowship (Aug 2022 - May 2025), University of Nebraska-Lincoln, US
 - National Science and Technology Fellowship (Jan 2021), Ministry of Science and Technology, Bangladesh
